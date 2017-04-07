@@ -4,3 +4,9 @@ NDESKTOP-TV is a TERMINAL-based character-mode visual text user interface (TUI) 
 
 ![alt tag](https://raw.githubusercontent.com/spartrekus/ndesktop-tv/master/ndesktop-tv.png)
 
+![alt tag](https://raw.githubusercontent.com/spartrekus/ndesktop-tv/master/ndesktop-pic02.png)
+
+![alt tag](https://raw.githubusercontent.com/spartrekus/ndesktop-tv/master/ndesktop-pic03.png)
+
+
+
